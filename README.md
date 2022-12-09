@@ -1,1 +1,1 @@
-My repository for the IBM data science professional certificate
+IBM data science professional certificate - capstone project
